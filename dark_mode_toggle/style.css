@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#text{
+    font-size: 70px;
+}
+button{
+    cursor:pointer;
+    height: 50px;
+    width: 100px;
+    padding: 2px;
+    font-size: 20px;
+    font-weight: bold;
+}
+button:hover{
+    background-color: rgb(221, 224, 226);
+}
